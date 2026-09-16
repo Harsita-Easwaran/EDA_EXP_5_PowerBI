@@ -161,5 +161,8 @@ Finally, identify at least three meaningful business insights from the analysis.
 
 **Expected Output**
 
+<img width="846" height="400" alt="image" src="https://github.com/user-attachments/assets/3fe5bee3-f0cd-4247-bf41-d5a2765ddee9" />
+
+
 **Result**
 Thus, the sales data was successfully analyzed using time-series techniques in Power BI. Monthly trends, sales changes, growth rates, moving averages, and year-over-year performance were calculated and visualized to create an interactive Time Series Sales Analysis Report.
